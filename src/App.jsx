@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import './App.css'
 
-import Header from './header'
+import Header from './Header'
 import Sidebar from './Sidebar'
-import Home from './home'
+import Home from './Home'
 
 function App() {
 
